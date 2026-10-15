@@ -1,16 +1,16 @@
-## Hi there 👋
+# Hi, I'm Jellood 👋
 
-<!--
-**Jellood/Jellood** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a software developer focused on Game Development, currently working with C++ and Unreal Engine.
 
-Here are some ideas to get you started:
+### 🛠️ Tech Stack
+* **Languages:** C++
+* **Game Engine:** Unreal Engine 5
+* **Tools:** Visual Studio, Git
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 Current Focus
+* 🌱 Deepening my knowledge of core C++ and object-oriented programming.
+* 🎮 Exploring Unreal Engine architecture, Blueprints, and C++ integration.
+
+### 📬 Contact
+* **Telegram:** @jellood
+* **Email:** kulikovskyi.artem.ka@gmail.com
